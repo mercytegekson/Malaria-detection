@@ -1,6 +1,7 @@
 
-#MALARIA DETECTION
-#INTRODUCTION
+# MALARIA DETECTION
+
+# INTRODUCTION
 
 Welcome to this project on classifying whether it is parasitized or infected with malaria .In this project, we will be focused on supervised learning algorithms and use CNN model which will predict whether a cell is infected, parasitized. This is based on a comprehensive dataset which contains several images and labels which state if the cell is infected or parasitized.
 
