@@ -10,6 +10,10 @@ The main purpose of this project is to create a predictive model that accurately
 In the following sections we will delve into the project's methodology, key findings and the models' performances in predicting a parasitized or infected.
 # Explaratory data analysis
 ![image](https://github.com/mercytegekson/Malaria-detection/assets/91189286/ecdcaaa9-4e68-485f-b82a-30b9dba8aca9)
+# Modelling
+Accuracy
+![image](https://github.com/mercytegekson/Malaria-detection/assets/91189286/0132667b-8932-4601-9f29-c31b8d9df01a)
+
 
 # Project set up requirements
 Google Colab/Jupyter Notebook
