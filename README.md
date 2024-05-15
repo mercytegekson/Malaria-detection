@@ -7,6 +7,9 @@ Welcome to this project on classifying whether it is parasitized or infected wit
 The main purpose of this project is to create a predictive model that accurately classifies whether a cell is infected or parasitized. This project aims to provide insights to medical stakeholders and in turn they will make informed decisions which help them distinguish a parasitized or infected.
 
 In the following sections we will delve into the project's methodology, key findings and the models' performances in predicting a parasitized or infected.
+# Explaratory data analysis
+![image](https://github.com/mercytegekson/Malaria-detection/assets/91189286/ecdcaaa9-4e68-485f-b82a-30b9dba8aca9)
+
 # Project set up requirements
 Google Colab/Jupyter Notebook
 # Known bugs
